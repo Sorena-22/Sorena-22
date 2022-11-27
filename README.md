@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sorena.
+- I'm student of electrical eng.  
+- 👀 I’m interested in Phyton and Machine Learning
+- I do my best to improve myself
