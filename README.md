@@ -1,4 +1,2 @@
-- 👋 Hi, I’m Sorena.
-- I'm student of electrical eng.  
-- 👀 I’m interested in Phyton and Machine Learning
-- I do my best to improve myself
+“If we knew what it was we were doing, it would not be called research, would it?”
+-- Albert Einstein
